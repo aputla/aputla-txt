@@ -1,0 +1,4 @@
+* Eclipse > Import > General > Preferences
+* Eclipse > Export > General > Preferences
+
+* Import the settings from $HOME/aextras/config/eclipse

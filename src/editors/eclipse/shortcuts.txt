@@ -1,0 +1,14 @@
+  category |          short cut | sample scenarios where the shortcut can be used
+-----------|--------------------|----------------------
+     build |         Ctrl + F11 | run
+     build |                F11 | debug
+navigation |        Ctrl + PgUp | navigate between tabs
+navigation |        Ctrl + PgDn | navigate between tabs
+navigation |          Ctrl + E  | list of opened files
+navigation |         Ctrl + F6  | list of opened files
+navigation |           Ctrl + M | maximize/minimize current view
+navigation |  Ctrl + Shift + R  | open file
+navigation |           Ctrl + O | list of methods
+navigation |   Ctrl + Shift + O | remove unnecessary imports
+navigation | Ctrl + O, Ctrl + O | list of methods including those defined in superclasses
+   general |   Ctrl + Shift + L | see the list of shortcuts

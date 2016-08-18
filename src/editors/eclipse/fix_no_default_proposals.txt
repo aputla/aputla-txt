@@ -1,0 +1,5 @@
+Try restoring the default options in 
+Windows > Preferences > Java > Editor > Content Assist > Advanced
+
+More:
+stackoverflow.com/questions/908489/eclipse-java-code-completion-not-working
