@@ -1,0 +1,9 @@
+@Value
+public static class Request {
+	@NonNull
+	private final String appName; // ERROR
+
+}
+
+eclipse error: 
+The blank final field appName may not have been initialized
