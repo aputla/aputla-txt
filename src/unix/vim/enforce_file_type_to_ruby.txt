@@ -1,0 +1,6 @@
+# vim:ft=ruby
+
+class Application
+  def process
+  end
+end
